@@ -1,0 +1,9 @@
+static/
+.pyc
+.txt
+djangoProjectenv/
+__pycache__/
+*.pyc
+*.txt
+.log
+*.log
