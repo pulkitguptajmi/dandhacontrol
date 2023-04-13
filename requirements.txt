@@ -162,7 +162,7 @@ watchfiles==0.16.1
 wcwidth==0.2.5
 web3==5.23.0
 webdriver-manager==3.5.2
-websockets==10.3
+websockets<10
 wrapt==1.12.1
 wsproto==1.2.0
 yarl==1.6.3
